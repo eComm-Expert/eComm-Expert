@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eComm-Expert
   
-Im an eCommerce specialist and Professional Web Developer. I specalize in Shopify and WordPress, and I mean every aspect of them. From custom themes to email marketing and SEO best practices, I will help you build for success.
+Im an eCommerce specialist and Professional Web Developer. I specialize in Shopify and WordPress, and I mean every aspect of them. From custom themes to email marketing and SEO best practices, I will help you build for success.
 
 Send me an invite and lets talk about your next project today!
 
@@ -17,6 +17,10 @@ Skill Set:
 - Product, industry and niche research
 - SEO
 - Email Marketing
+
+My Contact Info:
+✨mail: calderaiojohn@gmail.com
+✨skype: live:.cid.82cb1ffe039d2a58
 
 <!---
 eComm-Expert/eComm-Expert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
